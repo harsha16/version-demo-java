@@ -9,14 +9,14 @@
     </parent>
     <groupId>com.example</groupId>
     <artifactId>version-demo-java</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.3-SNAPSHOT</version>
     <name>version-demo-java</name>
     <description>Demo project for Spring Boot</description>
 
     <scm>
         <url>https://github.com/GENESIIS/xeno_al.git</url>
         <connection>scm:git:https://github.com/harsha16/version-demo-java.git</connection>
-        <tag>0.0.2</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <properties>
